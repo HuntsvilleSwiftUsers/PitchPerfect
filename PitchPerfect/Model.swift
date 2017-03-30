@@ -6,6 +6,8 @@
 //  Copyright © 2017 Udacity. All rights reserved.
 //
 
-struct Model {    
-    let name: String
+import Foundation
+
+struct Model {
+    let audioURL: URL
 }
